@@ -1,0 +1,7 @@
+Onombre: valentin bottino dni: 46375018 telefono: 351 7440318 clave ucc: 2422425
+nombre: Nicolas Pietkievicz
+dni:46125618
+telefono: 3515166738
+clave ucc: 2317898
+
+modificacion punto 12
